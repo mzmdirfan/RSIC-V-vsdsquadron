@@ -2,7 +2,9 @@
 
 
 - [All about RISC-V VSDQUADRON](#all-about-risc-v-vsdquadron)
-
+- [Board Overview](#board-overview)
+- [Project Introduction](#project-introduction)
+- [Reference Diagram](#reference-diagram)
 
 # All about RISC-V VSDQUADRON
 
@@ -29,4 +31,22 @@ ART, I2C, and SPI for versatile connectivity options.
 
    ![Screenshot 2024-02-21 225655](https://github.com/mzmdirfan/RSIC-V-vsdsquadron/assets/100523407/a634c0dc-9602-4b24-a75f-78ba2490cbde)
 
+ # Board Overview
+ The VSDSquadron Mini RISC-V development boards features a RISC-V SoC with the following
+ capabilities:
+ 
+ - On-board 24MHz RC oscillator.
+ - 3 groups of GPIO ports, totaling 15 I/O ports.
+ - USART, I2C, and SPI.
+ - UART implemented on USART.
+ - 2KB SRAM for volatile data storage, 16KB CodeFlash for program memory.
+ - On-board Programmer. NO NEED of any additional adapter.
+
+ # Project Introduction
+
+  - Web Server:  Control an LED from Webpage
+
+ # Reference Diagram
+
+   ![Circuit-Diagram-for-ESP32-Web-Server](https://github.com/mzmdirfan/RSIC-V-vsdsquadron/assets/100523407/ec941fa4-d937-431c-8e03-f7ccc9054f55)
 
