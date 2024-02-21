@@ -50,3 +50,4 @@ ART, I2C, and SPI for versatile connectivity options.
 
    ![Circuit-Diagram-for-ESP32-Web-Server](https://github.com/mzmdirfan/RSIC-V-vsdsquadron/assets/100523407/ec941fa4-d937-431c-8e03-f7ccc9054f55)
 
+   Source: https://iotdesignpro.com/projects/esp32-web-server-control-led-from-webpage
